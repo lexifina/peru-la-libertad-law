@@ -1,0 +1,23 @@
+ORDENANZA REGIONAL
+Nº 014-2009-GR-LL/CR
+“DISPONER, QUE LA GERENCIA REGIONAL DE EDUCACIÓN CONJUNTAMENTE CON LAS UNIDADES DE GESTIÓN EDUCATIVA LOCAL – UGEL DEL GOBIERNO REGIONAL DE LA LIBERTAD, PRESENTEN UN INFORME DE SUPERVISIÓN DETALLADO POR CADA PROVINCIA, DIRIGIDO AL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD”
+EL PRESIDENTE DEL GOBIERNO REGIONAL
+LA LIBERTAD
+POR CUANTO:
+El Consejo Regional del Gobierno Regional La Libertad, de conformidad con lo previsto en el Artículo 197º de la Constitución Política del Perú de 1993, modificada por la Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización, Ley Nº 27680; Ley de Bases de la Descentralización, Ley Nº 27783; de la Ley Orgánica de Gobierno Regionales, Ley Nº 27867, su modificatoria, Ley Nº 27902 y demás normas complementarias;
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL LA LIBERTAD, ha aprobado la siguiente Ordenanza Regional.
+VISTO:
+En Sesión Extraordinaria del Consejo Regional de fecha 27 de Mayo del año 2009, la propuesta para disponer, que la Gerencia Regional de Educación conjuntamente con las Unidades de Gestión Educativa Local – UGEL del Gobierno Regional de La Libertad, presenten un informe de supervisión detallado por cada provincia ante el Pleno del Consejo Regional; y,
+CONSIDERANDO:
+Que, el Artículo 191º de la Constitución Política del Perú de 1993, modificada por Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización – Ley Nº 27680, establece que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia, asimismo la Ley Orgánica de Gobierno Regionales Ley Nº 27867, modificada por Ley Nº 27902 en su Artículo 10º competencias exclusivas inciso m) dictar las normas sobre asuntos y materias de su responsabilidad.
+Que, el Artículo 16º de la Constitución Política del Perú de 1993, prescribe “…El Estado coordina la política educativa. Formula los lineamientos generales de los planes de estudios así como los requisitos mínimos de la organización de los centros educativos. Supervisa su cumplimiento y la calidad de la educación…”
+Que, la Ley Orgánica de Gobiernos Regionales Ley Nº 27867 modificada por la Ley Nº 27902, establece en su Artículo 38º que las Ordenanzas Regionales norman la organización del Gobierno Regional.
+Que, la Ley General de Educación Nº 28044, en el capítulo V.- El Rol del Estado, en su artículo 21º, establece que son funciones del Estado: Inc. b) Ejercer y promover un proceso permanente de supervisión y evaluación de la calidad y equidad en la educación.
+Que, en las zonas rurales más alejadas de la Región La Libertad, los docentes no cumplen con el horario de trabajo establecido por Ley, en consecuencia no cumplen con los lineamientos educativos para el desarrollo del año escolar.
+Que, ante esta real y preocupante situación que se acentúa en nuestra sierra Liberteña, los más afectados educativamente son los alumnos, dado que esta situación influye negativamente en su proceso enseñanza aprendizaje.
+Que, la supervisión educativa tiene un rol especial en la conducción del sistema educativo, dado que permite observar si se hace lo que lo que debe hacerse y constituye una orientación profesional y de asistencia tendiente al perfeccionamiento del proceso integral enseñanza – aprendizaje.
+Que, el Artículo 2º del Decreto Supremo Nº 50-82-ED, Reglamento de Supervisión Educativa, establece su finalidad en los siguientes términos: “El servicio de Supervisión Educativa está destinado al mejoramiento de la calidad y eficiencia de la educación, mediante el asesoramiento, la promoción y evaluación del proceso educativo y de su administración. Se ofrece en forma permanente y organizada conformando un sistema”.
+Que, a pesar de existir una normatividad que regula la supervisión educativa, esta Ordenanza Regional tiene por espíritu conocer en que medida se está supervisando a los docentes de las instituciones educativas a nivel regional, especialmente sierra Liberteña en el cumplimiento de sus funciones administrativas.
+Que, el informe sobre la labor de supervisión efectuada, deberá ser presentado por la Gerencia Regional de Educación conjuntamente con las Unidades de Gestión Educativa Local – UGEL, para conocer de manera integral y detallada la supervisión que ejercen en sus respectivas provincias.
+De conformidad con la Constitución Política del Perú de 1993, y en uso de las facultades y atribuciones conferidas por el Artículo 37º y Artículo 38º de la Ley Orgánica de Gobierno Regionales Ley Nº 27867 y su modificatoria Ley Nº 27902 y Ley Nº 28968 y, estando a lo acordado
+Ha aprobado la siguiente Ordenanza Regional:
