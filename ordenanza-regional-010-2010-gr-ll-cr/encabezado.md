@@ -1,0 +1,23 @@
+ORDENANZA REGIONAL
+Nº 010-2010-GR-LL/CR
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL DE LA LIBERTAD
+POR CUANTO:
+El Consejo Regional del Gobierno de La Libertad de conformidad con lo previsto en los Artículos 191° y 192° de la Constitución Política del Perú; Ley de Bases de Descentralización, Ley N° 27783; Ley Orgánica de Gobiernos Regionales, Ley N° 27867, y sus modificatorias, y demás normas complementarias.
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD ha aprobado la siguiente Ordenanza Regional:
+VISTO:
+En Sesión Ordinaria de fecha 08 de junio de 2010 el dictamen sobre el Proyecto de Ordenanza Regional N° 041-2010-GR-LL/CR relativo a aprobar la adecuación administrativa regional en el marco de la Ley N° 29271 mediante la asignación a la Gerencia Regional de la Producción de las funciones y competencias en materia MYPE; y,
+CONSIDERANDO:
+Que, la Ley N° 27658- Ley Marco de Modernización de la Gestión del Estado y el Decreto Supremo Nº 030-2002-PCM que aprueba su Reglamento, declara al Estado peruano en proceso de modernización con la finalidad de mejorar la gestión pública y construir un Estado democrático, descentralizado y al servicio del ciudadano.
+Que, según el Artículo 36° de la Ley Orgánica de Gobiernos Regionales, Ley N° 27867, las normas y disposiciones del Gobierno Regional se adecuan al ordenamiento jurídico nacional, no pueden invalidar ni dejar sin efecto normas de otro Gobierno Regional ni de los otros niveles de Gobierno.
+Que, mediante Ordenanza Regional Nº 023-2008-GRLL/CR de fecha 14 de Julio de 2008 se aprueba la modificación de la Estructura Orgánica del Gobierno Regional La Libertad y por consiguiente el Organigrama Estructural.
+Que, las Gerencias Regionales de Trabajo y Promoción del Empleo, así como de la Producción, son órganos de línea del Gobierno Regional La Libertad, cuyas funciones son consignadas en el Reglamento de Organización y Funciones (ROF) del mismo, así como en su respectivos ROF vigentes a la fecha, están de acuerdo a lo establecido en los Artículos 48°, 52° y 54° de la Ley Nº 27867.
+Que, la Gerencia Regional de la Producción, según el Artículo 155° del ROF del Gobierno Regional La Libertad, aprobado mediante Ordenanza Regional N° 023-2008-GRRLL/CR, establece que la misma depende técnica y normativamente del Ministerio de la Producción.
+Que, el Artículo 3° de la Ley N° 29271, dispone la transferencia al Ministerio de la Producción de las competencias y funciones sobre Micro y Pequeña Empresa (MYPE) previstas en la Ley N° 27711, Ley del Ministerio de Trabajo y Promoción del Empleo y en el Artículo 6° de la Ley N° 28015, Ley de Promoción y Formalización de la Micro y Pequeña Empresa.
+Que, mediante Ley N° 29381, se aprueba la Ley de Organización y Funciones del Ministerio de Trabajo y Promoción del Empleo, así como en su Primera Disposición Complementaria Derogatoria se deroga la Ley N° 27771, Ley del Ministerio del Trabajo y Promoción del Empleo.
+Que, a nivel ministerial se han emitido los correspondientes dispositivos legales como son la Ley N° 29381, que deroga la Ley Nº 27771, Ley de Organización y Funciones del Ministerio de Trabajo y Promoción del Empleo. De igual manera se emitió el Decreto Supremo N° 018-2009-PRODUCE, que modifica el Decreto Supremo N° 010-2006-PRODUCE, que aprobaba el Reglamento de Organización y Funciones (ROF) del Ministerio de la Producción. Mediante dichos dispositvos se formaliza la transferencia y recepción de las funciones y competencias en materia de MYPE y Cooperativas.
+Que, mediante Oficio N° 0026-2009-PRODUCE/ DVMYPE el Vice Ministro de MYPE Industria solicita al Gobierno Regional de La Libertad la adecuación administrativa en el Marco de la Ley N° 29271.
+Que, la Gerencia Regional de Asesoría Jurídica ha emitido el respectivo Informe Legal N° 002-2010-GRLL-GGR/GRAJ-MMA de fecha 05 de enero de 2010, en el cual entre otros, refiere que si en el marco de la Ley N° 29721 las funciones en materia MYPES deben pasar de la Gerencia Regional de Trabajo y Promoción del Empleo a la Gerencia Regional de la Producción, es necesario que se expida un acto normativo que asigne dichas funciones a la Gerencia Regional de la Producción.
+Que, en ese orden de ideas es necesario que el Pleno del Consejo Regional de La Libertad proceda a la Adecuación Administrativa Regional en cumplimiento de la Ley Nº 29271, para el adecuado cumplimiento de las competencias y funciones MYPE por la instancia competente en el ámbito regional.
+En ejercicio de las atribuciones que le confiere la Ley Orgánica de Gobiernos Regionales, Ley N° 27867 y sus Modificatorias, y estando a lo acordado.
+Ha aprobado la siguiente Ordenanza Regional:
