@@ -1,0 +1,19 @@
+ORDENANZA REGIONAL
+N° 018-2010-GR-LL/CR
+“MODIFICAR EL TERCER CONSIDERANDO DE LA ORDENANZA REGIONAL N° 002-2008-GR-LL/CR”
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL DE LA LIBERTAD
+POR CUANTO:
+El Consejo Regional del Gobierno de La Libertad, de conformidad con lo previsto en los Artículos 191° y 192° de la Constitución Política del Perú; Ley de Bases de Descentralización, Ley N° 27783, Ley Orgánica de Gobiernos Regionales, Ley N° 27867 y sus modificatorias, y demás normas complementarias.
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD ha aprobado la siguiente Ordenanza Regional:
+VISTO:
+En Sesión Ordinaria de fecha 01 de setiembre de 2010 el Oficio Nº 045-2010-GR-LL/CR de fecha 11 de agosto de 2010 que contiene el pedido del Consejero Regional por la provincia de Julcan señor Marter Jorge Mozo Ávalos solicitando al Pleno del Consejo Regional modificar el tercer considerando de la Ordenanza Regional N° 002-2008-GR-LL/CR, aprobado en Sesión Ordinaria de fecha 12 de febrero de 2008, a fin de incluir al Colegio de Antropólogos de La Libertad en el texto del referido considerando; y,
+CONSIDERANDO:
+Que, conforme a lo establecido en el Artículo 191° de la Constitución Política del Estado y el Artículo 2° de la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867, los Gobiernos Regionales son personas jurídicas de derecho público con autonomía política, económica y administrativa en asuntos de su competencia.
+Que, es competencia del Gobierno Regional de La Libertad emitir Ordenanzas Regionales, conforme a lo prescrito en el Artículo 38° de la acotada Ley, que establece: “Las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia.(...)”.
+Que, mediante Ordenanza Regional N° 002-2008-GR-LL/CR, aprobado en Sesión Ordinaria de fecha 12 de febrero de 2008, se establece como requisito para el ejercicio profesional de la Administración Pública de la Región La Libertad, el certificado que acredita la inscripción y la habilitación por no haber sido sancionado por comisión de falta o delito, otorgado por el respectivo Colegio Profesional.
+Que, en el tercer considerando de la referida Ordenanza Regional, se hace mención y detalla a los Colegios Profesionales creados y reconocidos por el Congreso de la República mediante sus respectivas leyes especiales, sin embargo en dicho considerando se ha omitido incluir al Colegio de Antropólogos del Perú creado por Ley Nº 24166 de fecha 27 de mayo de 1985.
+Que, dicha omisión no significa que este Colegio no se encuentre dentro de los alcances de esta norma regional, puesto que en la parte resolutiva de esta Ordenanza Regional no se hace detalla ningún colegio profesional y sólo constituye una mera referencia a los colegios profesionales existentes; sin embargo, con la finalidad de atender la preocupación del Decano del Consejo Directivo Descentralizado Regional Norte del Colegio de Antropólogos de Perú, quien ha solicitado la incorporación de este colegio profesional en el ámbito de cumplimiento de la Ordenanza Regional Nº 002-2008-GR-LL/CR es necesario modificar este considerando a fin que se incluya al Colegio Profesional de Antropólogos del Perú.
+Que, la modificación solicitada se encuentra amparada a tenor de lo dispuesto en el numeral 201.1 del Artículo 201º de la Ley Nº 27444, Ley de Procedimiento Administrativo General, que establece: “Los errores material o aritmético en los actos administrativos pueden ser rectificados con efecto retroactivo, en cualquier momento, de oficio o a instancia de los administrados, siempre que no se altere lo sustancial de su contenido ni el sentido de la decisión”.
+En ejercicio de las atribuciones que le confiere la Ley Orgánica de Gobiernos Regionales, Ley N° 27867 y sus modificatorias, y estando a lo acordado.
+Ha aprobado la siguiente Ordenanza Regional:
