@@ -1,0 +1,21 @@
+ORDENANZA REGIONAL
+N° 028-2010-GR-LL/CR
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL DE LA LIBERTAD
+POR CUANTO:
+El Consejo Regional del Gobierno de La Libertad, de conformidad con lo previsto en los Artículos 191° y 192° de la Constitución Política del Perú; Ley de Bases de Descentralización, Ley N° 27783; Ley Orgánica de Gobiernos Regionales, Ley N° 27867 y sus modificatorias, y demás normas complementarias.
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD ha adoptado la siguiente Ordenanza Regional:
+VISTO:
+En Sesión Ordinaria continuada del día 12 de noviembre de 2010, el dictamen sobre el Proyecto de Ordenanza Regional N° 072-2010-GR-LL/CR relativo a aprobar el Reglamento de Organización y Funciones (ROF) de la Gerencia Regional de Educación del Gobierno Regional de La Libertad; y,
+CONSIDERANDO:
+Que, el Artículo 191º de la Constitución Política del Estado en concordancia con el Artículo 2º de la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867, establece que los Gobiernos Regionales emanan de la voluntad popular son personas jurídicas de derecho público, con autonomía política, económica y administrativa, constituyendo para su administración económica y financiera, un pliego presupuestal.
+Que, es competencia del Gobierno Regional de La Libertad emitir Ordenanzas Regionales, conforme a lo prescrito en el Artículo 38° de la acotada Ley, que establece: “Las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia.(...)”.
+Que, la Ley N° 27658, Ley Marco de Modernización de la Gestión del Estado y el Decreto Supremo N° 030-2002-PCM que aprueba su reglamento, declara al Estado Peruano en proceso de modernización con la finalidad de mejorar la gestión pública y construir un Estado democrático, descentralizado y al servicio del ciudadano.
+Que, mediante Ordenanza Regional N° 023-2008-GR-LL/CR, de fecha 14 de julio de 2008, se aprueba la Modificación de la Estructura Orgánica del Gobierno Regional de La Libertad y consiguiente Organigrama Estructural, la cual fue aprobada mediante Ordenanza Regional Nº 030-2007-GR-LL/CR, de fecha 19 de diciembre de 2007; así como, su Reglamento de Organización y Funciones (ROF).
+Que, el Artículo 65° de la Ley General de Educación, Ley N° 28044 y Artículo 1° del Reglamento de la Gestión del Sistema Educativo aprobado por Decreto Supremo N° 009-2005-ED, establecen como instancia de gestión educativa descentralizada a la Dirección Regional de Educación, hoy denominada Gerencia Regional de Educación. Asimismo, define a ésta como un órgano especializado del Gobierno Regional.
+Que, la Gerencia Regional de Educación es un órgano de línea del Gobierno Regional de La Libertad responsable de planificar, ejecutar y administrar las políticas y planes regionales en materia de educación, cultura, deporte, recreación, ciencia y tecnología, en concordancia con las políticas sectoriales nacionales emanadas del Ministerio de Educación en el ámbito de su jurisdicción. Depende técnica y normativamente del Ministerio de Educación y administrativa y presupuestalmente del Gobierno Regional de La Libertad.
+Que, mediante Resolución Ejecutiva Regional N° 592-2003-GR-LL/PRE, de fecha 16 de setiembre de 2003, se aprueba el Organigrama Estructural y el Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Educación de La Libertad, los mismos que se encuentran vigentes.
+Que, el Decreto Supremo Nº 043-2006-PCM, “Aprueba los Lineamientos para la Elaboración y Aprobación del Reglamento de Organización y Funciones (ROF), por parte de las Entidades de la Administración Pública”, así como el dispositivo legal que aprueba el Reglamento de Organización y Funciones de las entidades públicas dependientes de los Gobiernos Regionales, es la Ordenanza Regional.
+Que, es de necesidad modificar la estructura orgánica vigente y el Reglamento de Organización y Funciones (ROF) de la Gerencia Regional de Educación, para el logro de una gestión más ágil y eficiente.
+En ejercicio de las atribuciones que le confiere la Ley Orgánica de Gobiernos Regionales, Ley N° 27867 y sus modificatorias, y estando a lo acordado.
+Ha aprobado la siguiente Ordenanza Regional
