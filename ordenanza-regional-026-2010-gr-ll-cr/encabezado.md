@@ -1,0 +1,17 @@
+ORDENANZA REGIONAL
+N° 026-2010-GR-LL/CR
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL DE LA LIBERTAD
+POR CUANTO:
+El Consejo Regional del Gobierno de La Libertad, de conformidad con lo previsto en los Artículos 191° y 192° de la Constitución Política del Perú; Ley de Bases de Descentralización, Ley N° 27783; Ley Orgánica de Gobiernos Regionales, Ley N° 27867 y sus modificatorias, y demás normas complementarias.
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD ha adoptado la siguiente Ordenanza Regional:
+VISTO:
+En Sesión Ordinaria continuada del día 12 de noviembre de 2010, el dictamen sobre el Proyecto de Ordenanza Regional N° 070-2010-GR-LL/CR relativo a disponer que la Escuela Superior de Bellas Artes Pública “Macedonio de La Torre” se denomine Escuela Superior de Formación Artística Pública “Bellas Artes Macedonio de La Torre” en todos los documentos oficiales que esta institución educativa emita; y,
+CONSIDERANDO:
+Que, el Artículo 191° de la Constitución Política del Estado en concordancia con el Artículo 2° de la Ley Orgánica de Gobiernos Regionales, Ley N° 27867, establece que los Gobiernos Regionales emanan de la voluntad popular son personas jurídicas de derecho público, con autonomía política, económica y administrativa, constituyendo para su administración económica y financiera, un pliego presupuestal.
+Que, de acuerdo al Artículo 36° de la Ley de Bases de la Descentralización, Ley N° 27783, existen competencias compartidas como en el Sector Educación para la gestión de los servicios educativos de nivel inicial, primaria, secundaria y superior no universitaria, con criterios de interculturalidad orientados a potenciar la formación para el desarrollo, y por lo tanto es posible bajo los principios de supletoriedad e interés público regional complementar, con Ordenanza Regional, disposiciones legales emitidas por el Gobierno Nacional sin colisionarlas o transgredirlas.
+Que, es competencia del Gobierno Regional de La Libertad emitir Ordenanzas Regionales, conforme a lo prescrito en el Artículo 38° de la acotada Ley, que establece: “Las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia.(...)”.
+Que, es necesario, que la Escuela Superior de Bellas Artes Pública “Macedonio de La Torre” se denomine Escuela Superior de Formación Artística Pública “Bellas Artes Macedonio de La Torre” en todos los documentos oficiales que esta institución educativa emita en el marco de la Ley N° 29394 y considerando que esta institución es históricamente reconocida y prestigiada a nivel nacional con la denominación de “Bellas Artes” habiendo merecido el reconocimiento público del Gobierno Peruano con las más altas distinciones correspondientes a su trayectoria de formación de docentes y artistas plásticos.
+Que, asimismo, esta iniciativa normativa es amparada por la Asamblea de Docentes de la Escuela Superior de Bellas Artes Pública “Macedonio de La Torre” que acordó hacer el pedido en salvaguarda de la imagen institucional manteniendo el nombre de “Bellas Artes” que ha caracterizado a esta escuela desde el año 1962 formando artistas profesionales en dibujo y pintura, cerámica, escultura y grabado así como a la formación de docentes en artes plásticas.
+En ejercicio de las atribuciones que le confiere la Ley Orgánica de Gobiernos Regionales, Ley N° 27867 y sus modificatorias, y estando a lo acordado.
+Ha aprobado la siguiente Ordenanza Regional
