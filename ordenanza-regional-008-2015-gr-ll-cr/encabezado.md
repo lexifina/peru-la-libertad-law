@@ -1,0 +1,21 @@
+ORDENANZA REGIONAL
+N° 008-2015-GR-LL/CR
+EL GOBERNADOR REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de La Libertad, de conformidad con lo previsto en los artículos 191º y 192º de la Constitución Política del Perú; Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, y sus modificatorias, y demás normas complementarias.
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD, ha aprobado la siguiente Ordenanza Regional:
+VISTO:
+En Sesión Ordinaria de Consejo Regional de fecha diez de Julio del dos mil quince; el Dictamen emitido por la Comisión Ordinaria de Recursos Naturales y Protección del Ambiente, recaído en el texto sustitutorio del Proyecto de Ordenanza Regional relativo a Crear el Grupo Técnico Regional de Diversidad Biológica; y,
+CONSIDERANDO:
+Que, de conformidad con lo establecido por el artículo 191° de la Constitución Política del Perú, modificado por la Ley N° 27680 “Ley de Reforma Constitucional”, concordante con el artículo 2° de la Ley N° 27867 “Ley Orgánica de Gobiernos Regionales”, los Gobiernos Regionales son personas jurídicas de derecho público, con autonomía política, económica y administrativa en los asuntos de su competencia;
+Que, el Art. 68° de la Constitución Política del Estado establece que es obligación del Estado promover la conservación de la diversidad biológica y de las áreas naturales protegidas;
+Que, el Art. 8° de la Ley N° 26839, Ley para la Conservación y Aprovechamiento Sostenible de la Diversidad Biológica, señala que la estrategia, programas y planes de acción para la conservación y utilización sostenible de la diversidad biológica, se formularán a través de procesos participativos y sus resultados se incorporarán en los planes y políticas nacionales, siendo de cumplimiento prioritario;
+Que, mediante D.S. N° 102-2001-PCM, se aprueba la Estrategia Nacional de la Diversidad Biológica del Perú, como documento formal y guía para la planificación y gestión de la diversidad biológica del país;
+Que, de acuerdo al literal m) del Artículo 7 del D. Leg. 1013, Ley de Creación, Organización y Funciones del MINAM, éste tiene como función específica formular y proponer la política y las estrategias nacionales de gestión de los recursos naturales y de la diversidad biológica;
+Que, la Política Nacional del Ambiente, aprobada mediante D.S. N° 012-2009-MINAM, consigna entre los Lineamientos de Política del Eje 1 “Conservación y Aprovechamiento Sostenible de los Recursos Naturales y de la Diversidad Biológica, el de impulsar el diseño e implementación de estrategias para la gestión sostenible de la diversidad biológica, incluyendo el desarrollo de alianzas público-privadas, bajo criterios de conectividad y complementariedad;
+Que, el literal c) del Art. 53 de la Ley N° 27867, Ley Orgánica de los Gobiernos Regionales, establece que es función de los Gobiernos Regionales, formular, coordinar, conducir y supervisar la aplicación de las estrategias regionales respecto a la diversidad biológica, dentro del marco de las estrategias nacionales respectivas;
+Que, el Art. 30° del D.S. N° 008-2005-PCM, Reglamento de la Ley N° 28245, Ley Marco del Sistema Nacional de Gestión Ambiental, establece que corresponde a los Gobiernos Regionales y Gobiernos Locales decidir la creación de Grupos Técnicos Regionales dentro del ámbito de sus jurisdicciones;
+Que, mediante Ordenanza Regional N° 004-2004-CR-RLL, publicada en Diario Oficial El Peruano el 14 de Abril de 2004, el Consejo Regional aprobó la Política Ambiental Regional y la creación del Sistema Regional de Gestión Ambiental de La Libertad;
+Que, en el uso de las facultades conferidas por la Ley Orgánica de Gobiernos Regionales N° 27867 y su modificatoria Ley N° 27902. Asimismo, por votación en mayoría se consideró Crear el Grupo Técnico Regional de Diversidad Biológica de La Libertad;
+Que, estando a lo acordado y aprobado en Sesión Ordinaria de fecha diez de Julio del año dos mil quince, con el voto aprobatorio del Pleno del Consejo Regional, y en uso de las facultades establecidas en la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y, sus modificatorias; el Reglamento Interno del Consejo Regional; con dispensa de lectura y aprobación de Acta.
+Ha aprobado la Ordenanza Regional siguiente:
