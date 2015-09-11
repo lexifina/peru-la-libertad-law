@@ -1,0 +1,9 @@
+Artículo Cuarto.- La presente Ordenanza entrará en vigencia al día siguiente de su publicación en el Diario Oficial “El Peruano”.
+Comuníquese al Señor Gobernador del Gobierno Regional de La Libertad para su promulgación.
+En Trujillo, a los veintiséis días del mes de junio del año dos mil quince.
+DANTE ALFREDO CHÁVEZ ABANTO
+Presidente POR TANTO:
+Mando regístrese, publíquese y cúmplase.
+Dado en la Sede Institucional del Gobierno Regional de La Libertad, a los veintiséis días del mes de junio del año dos mil quince.
+CESAR ACUÑA PERALTA
+Gobernador Regional
