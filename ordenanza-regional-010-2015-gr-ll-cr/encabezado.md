@@ -1,0 +1,19 @@
+ORDENANZA REGIONAL
+N° 010-2015-GR-LL/CR
+“CREAR LA COMISIÓN REGIONAL
+ANTICORRUPCIÓN DE LA REGIÓN LA LIBERTAD”
+El GOBERNADOR REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de La Libertad, de conformidad con lo previsto en los artículos 191 y 192 de la Constitución Política del Perú; Ley de Bases de la Descentralización, Ley N° 27783; Ley Orgánica de Gobiernos Regionales, Ley N° 27867 y sus modificatorias, y demás normas complementarias.
+EL CONSEJO REGIONAL DEL GOBIERNO REGIONAL DE LA LIBERTAD, ha aprobado la siguiente Ordenanza Regional.
+VISTO:
+En Sesión Extraordinaria del Consejo Regional de fecha 17 de Setiembre del 2015, los actuados correspondientes al proyecto de Ordenanza Regional que Crea la Comisión Regional Anticorrupción de la Región La Libertad; y,
+CONSIDERANDO:
+Que, la Constitución Política del Perú, modificada por Ley N° 27680 - Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización y Ley N° 28607, en su artículo 191° establece que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de sus competencia; y en artículo 192° inciso 1 dispone que los Gobiernos Regionales son competentes para aprobar su organización interna y su presupuesto;
+Que, el Acuerdo Nacional, suscrito el 22 de julio de 2002, establece como Política de Estado la afirmación de un Estado eficiente y transparente (Política 24°), así como la promoción de la transparencia y la erradicación de la corrupción en todas sus formas (Política 26°); correspondiendo al Estado afirmar en la sociedad y en el Estado principios éticos y valores sociales así como la vigilancia ciudadana, la transparencia y la rendición de cuentas para garantizar la institucionalidad de nuestro país; asimismo, constituye elemento consustancial a dichas políticas el destierro de la impunidad, del abuso de poder, de la corrupción y del atropello de los derechos;
+Que, la corrupción es un fenómeno que afecta a todos los peruanos, en especial a los más pobres, y por tanto su combate o control representa una política de Estado que compromete a los tres niveles de gobierno. En esa línea, el artículo 9° de la Ley N° 29976 — que eleva a rango de ley la norma de creación de la Comisión de Alto Nivel Anticorrupción (CAN Anticorrupción) en su artículo 9° inciso 1 establece que, “los gobiernos regionales y locales implementan Comisiones Regionales y Locales Anticorrupción (...)”;
+Que, se ha encargado a la CAN Anticorrupción – encargada de articulación de esfuerzos, coordinación de acciones y formulación de políticas de prevención y combate a la corrupción – realizar el seguimiento de la conformación de las Comisiones Regionales Anticorrupción; así como coordinar con dichas Comisiones la ejecución de la política y el Plan Nacional de Lucha contra la corrupción a nivel regional;
+Que, a través del Decreto Supremo N° 119-2012-PCM se aprobó el Plan Nacional de Lucha Contra la Corrupción 2012-2016, que contiene una visión, un objetivo general, cinco (5) objetivos específicos, quince (15) estrategias y cincuenta y cinco (55) acciones, y cuyo ámbito de aplicación comprende a los Gobiernos Regionales;
+Que, el Gobierno Regional de La Libertad se suma a este esfuerzo conjunto del Estado Peruano para combatir la corrupción creando la Comisión Regional Anticorrupción de la Región La Libertad;
+Que, estando a lo acordado y aprobado en Sesión Extraordinaria de fecha 17 de Setiembre del año dos mil quince, con el voto aprobatorio y por UNANIMIDAD del Pleno del Consejo Regional, y en uso de las facultades establecidas en la Ley N° 27867, Ley Orgánica de Gobiernos Regionales y, sus modificatorias; el Reglamento Interno del Consejo Regional; con dispensa de lectura y aprobación de Acta.
+HA APROBADO LA SIGUIENTE ORDENANZA REGIONAL:
