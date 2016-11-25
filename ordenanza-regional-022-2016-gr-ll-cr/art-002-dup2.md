@@ -1,0 +1,1 @@
+Artículo Segundo.- PUBLICAR Y DIFUNDIR, la presente Ordenanza Regional en el Diario Oficial El Peruano y en el Portal Web del Gobierno Regional de La Libertad, en cumplimiento a lo dispuesto en el artículo 42° de la Ley Orgánica de los Gobiernos Regionales.
