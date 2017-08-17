@@ -1,0 +1,5 @@
+Artículo 114º.- AUTORIDAD PORTUARIA REGIONAL
+La Autoridad Portuaria Regional del Gobierno Regional de La Libertad, que en adelante se denominará Autoridad Portuaria Regional del Gobierno Regional La Libertad (APRLL), cuenta con personería jurídica de derecho público interno, patrimonio propio y con autonomía administrativa, técnica, económica y financiera, dependiente del Gobierno Regional La Libertad.
+La APRLL, se constituye como un órgano integrante del Sistema Portuario Nacional que permitirá al Gobierno Regional La Libertad participar en la planificación, ejecución y control de los puertos e instalaciones portuarias de su ámbito territorial de competencia.
+La APRLL, es un órgano adscrito a la Gerencia General Regional del Gobierno Regional La Libertad, con su propia personería jurídica de derecho público interno, patrimonio propio y autonomía técnica, económica y financiera de conformidad con lo dispuesto en el Artículo 27° de la Ley de Sistema Portuario Nacional, del cual la Autoridad Portuaria Nacional constituye del ente rector.
+DICE:
