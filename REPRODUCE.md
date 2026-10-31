@@ -235,20 +235,48 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-004-2019-gr-ll-cr` | Ordenanza Regional N° 004-2019-GR-LL/CR: Instituyen el Festival Turístico Regional de la Puya Raimondi a realizarse cada año en el mes de junio | 1 | 2019-06-23 to 2019-06-23 |
 | `ordenanza-regional-003-2019-grll-cr` | Ordenanza Regional N° 003-2019-GRLL/CR: Crean el Registro Regional de Personas con Discapacidad del Gobierno Regional La Libertad | 1 | 2019-06-23 to 2019-06-23 |
 | `ordenanza-regional-027-2018` | Ordenanza Regional N° 027-2018: Declaran a Huaylillas y zonas aledañas como Sitio prioritario para la conservación de la diversidad biológica y patrimonio cultural y establecen medidas complementarias para la conservación en el ámbito regional | 1 | 2019-04-04 to 2019-04-04 |
+| `ordenanza-regional-014-2018-grll-cr` | Ordenanza Regional N° 014-2018-GRLL/CR: Ordenanza Regional que aprueba la Convocatoria al Proceso de Formulación del Presupuesto Participativo Basado en Resultados del Gobierno Regional de La Libertad para el Año Fiscal 2019 | 1 | 2018-06-10 to 2018-06-10 |
+| `ordenanza-regional-005-2018-grll-cr` | Ordenanza Regional N° 005-2018-GRLL/CR: Modifican el Reglamento de Organización y Funciones - ROF Institucional, aprobado mediante Ordenanza Regional N° 008-2011-GR-LL/CR | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-regional-012-2018-grll-cr` | Ordenanza Regional N° 012-2018-GRLL/CR: Modificación del Reglamento de Organización y Funciones - ROF vigente del Gobierno Regional de La Libertad, con la inclusión del Anexo N° 1 | 1 | 2018-05-20 to 2018-05-20 |
+| `ordenanza-regional-023-2017-grll-cr` | Ordenanza Regional N° 023-2017-GRLL/CR.: Modifican la Ordenanza Regional N° 027-2007-GR-LL/CR | 1 | 2018-02-09 to 2018-02-09 |
+| `ordenanza-regional-024-2017-grll-cr` | Ordenanza Regional N° 024-2017-GRLL/CR: Modifican el Reglamento de Organización y Funciones (ROF) del Gobierno Regional de La Libertad y el Organigrama Estructural | 1 | 2018-02-09 to 2018-02-09 |
+| `ordenanza-regional-021-2017-grll-cr` | Ordenanza Regional N° 021-2017-GRLL/CR: Modificación de los artículos 36°, 37° y 38° del Reglamento de Organización y Funciones (ROF) del Gobierno Regional de La Libertad | 1 | 2018-01-16 to 2018-01-16 |
+| `ordenanza-regional-004-2015-gr-ll-cr` | Ordenanza Regional N° 004-2015-GR-LL/CR: Declaran de Interés Público Regional la Promoción de Derecho a la Salud y a la Vida, como Política del Estado en el Control y Prevención de la Tuberculosis (TB) | 1 | 2015-07-14 to 2015-07-14 |
+| `ordenanza-regional-008-2013-gr-ll-cr` | Ordenanza Regional N° 008-2013-GR-LL/CR: Declaran el 13 de abril como Día de conmemoración a las víctimas de accidentes de tránsito en la región La Libertad | 1 | 2013-12-29 to 2013-12-29 |
+| `ordenanza-regional-019-2013-gr-ll-cr` | Ordenanza Regional N° 019-2013-GR-LL/CR: Crean el Sistema de Información Ambiental Regional - SIAR La Libertad | 1 | 2013-12-02 to 2013-12-02 |
+| `ordenanza-regional-017-2013-gr-ll-cr` | Ordenanza Regional N° 017-2013-GR-LL-CR: Crean el Consejo Regional de Productos Orgánicos de la Región La Libertad - COREPOLL | 1 | 2013-10-25 to 2013-10-25 |
+| `ordenanza-regional-013-2013-gr-ll-cr` | Ordenanza Regional N° 013-2013-GR-LL/CR: Declaran de Interés Público Regional la instalación e implementación de Viveros para la Producción de Plantas Ornamentales, Forestales y Frutícolas en el ámbito de la Región La Libertad | 1 | 2013-10-25 to 2013-10-25 |
+| `ordenanza-regional-001-2012-gr-ll-cr` | Ordenanza Regional N° 001-2012-GR-LL/CR: Institucionalizan el Encuentro Regional Anual de Líderes Escolares Liberteños | 1 | 2013-10-24 to 2013-10-24 |
+| `ordenanza-regional-011-2013-gr-ll-cr` | Ordenanza Regional N° 011-2013-GR-LL/CR: Declaran al Festival de La Lima como evento de interés Turístico Regional, que se desarrolla en el caserío El Olivo, distrito de Huamachuco, provincia de Sánchez Carrión | 1 | 2013-10-24 to 2013-10-24 |
+| `ordenanza-regional-012-2013-gr-ll-cr` | Ordenanza Regional N° 012-2013-GR-LL/CR: Crean el Proyecto Especial de Camélidos Sudamericanos La Libertad - PECASULL | 1 | 2013-10-24 to 2013-10-24 |
+| `ordenanza-regional-015-2013-gr-ll-cr` | Ordenanza Regional N° 015-2013-GR-LL/CR: Aprueban texto sustitutorio de la Ordenanza Regional N° 004-2010-GR-LL/CR "Normas Complementarias al Reglamento Nacional de Administración de Transporte- RNAT" | 1 | 2013-09-30 to 2013-09-30 |
+| `ordenanza-regional-009-2013-gr-ll-cr` | Ordenanza Regional N° 009-2013-GR-LL/CR: Reconocen al Producto Destilado de Uva con la denominación de "Puro de Uva" y declaran como Producto Bandera Regional de La Libertad; asimismo, a la ciudad de Cascas como Capital del  "Puro de Uva" y a la provincia de Gran Chimú como pionera en la elaboración | 1 | 2013-09-29 to 2013-09-29 |
+| `ordenanza-regional-004-2013-gr-ll-cr` | Ordenanza Regional N° 004-2013-GR-LL/CR: Declaran al Centro Poblado de Molino de Cajanlaque, distrito de Chocope, provincia de Ascope como Capital del Plátano en la Región La Libertad | 1 | 2013-09-06 to 2013-09-06 |
+| `ordenanza-regional-003-2013-gr-ll-cr` | Ordenanza Regional N° 003-2013-GR-LL/CR: Aprueban la Estrategia Regional de Adaptación al Cambio Climático en la Región La Libertad | 1 | 2013-09-06 to 2013-09-06 |
+| `ordenanza-regional-10-2013-gr-ll-cr` | Ordenanza Regional N° 10-2013-GR-LL/CR: Convocan al Proceso de Formulación del Presupuesto Participativo Basado en Resultados del Gobierno Regional de La Libertad para el Año Fiscal 2014 | 1 | 2013-09-06 to 2013-09-06 |
+| `ordenanza-regional-007-2013-gr-ll-cr` | Ordenanza Regional N° 007-2013-GR-LL/CR: Declaran al distrito de Agallpampa, en la provincia de Otuzco,  como Capital del Queso en la Región La Libertad | 1 | 2013-09-06 to 2013-09-06 |
+| `ordenanza-regional-005-2013-gr-ll-cr` | Ordenanza Regional N° 005-2013-GR-LL/CR: Aprueban Estrategia Regional para la Gestión de los Recursos Hídricos en la  Región La  Libertad | 1 | 2013-07-12 to 2013-07-12 |
+| `ordenanza-regional-006-2013-gr-ll-cr` | Ordenanza Regional N° 006-2013-GR-LL/CR: Derogan la Ordenanza Regional N° 008-2007-GR-LL/CR y su Reglamento; la Ordenanza Regional N° 010-2008-GR-LL/CR y su Reglamento, Decreto Regional N° 001-2009-GR-LL-PRE | 1 | 2013-07-12 to 2013-07-12 |
+| `ordenanza-regional-002-2013-gr-ll-cr` | Ordenanza Regional N° 002-2013-GR-LL/CR: Aprueban el "Plan Regional de Reforestación de La Libertad 2011 - 2021" | 1 | 2013-04-25 to 2013-04-25 |
+| `ordenanza-regional-013-2012-gr-ll-cr` | Ordenanza Regional N° 013-2012-GR-LL/CR: Disponen el uso de sombreros, gorros de ala ancha u otra prenda de cabeza en los estudiantes, directores, docentes y personal administrativo de las instituciones educativas públicas y privadas de la Región La Libertad, en sus diferentes niveles y modalidades, | 1 | 2013-02-24 to 2013-02-24 |
+| `ordenanza-regional-010-2012-gr-ll-cr` | Ordenanza Regional N° 010-2012-GR-LL/CR: Crean el Consejo Regional por los Derechos de las Niñas, Niños y Adolescentes de la Región La Libertad | 1 | 2013-01-18 to 2013-01-18 |
+| `ordenanza-regional-011-2012-gr-ll-cr` | Ordenanza Regional N° 011-2012-GR-LL/CR: Disponen la celebración del Día de la Educación Técnica en la Región La Libertad | 1 | 2013-01-18 to 2013-01-18 |
+| `ordenanza-regional-007-2012-gr-ll-cr` | Ordenanza Regional N° 007-2012-GR-LL/CR: Aprueban el Estatuto de la Mancomunidad Regional Amazonas, San Martín, La Libertad, Cajamarca | 1 | 2012-09-28 to 2012-09-28 |
+| `ordenanza-regional-009-2012-gr-ll-cr` | Ordenanza Regional N° 009-2012-GR-LL/CR: Declaran al distrito de Huaranchal, provincia de Otuzco, como Capital del Café en la Región La Libertad | 1 | 2012-09-28 to 2012-09-28 |
 
-The build made 217 commits:
+The build made 245 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 217 | first version of an act |
+| 245 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 217 laws in the record.
-- 434 tags.
+- 245 laws in the record.
+- 490 tags.
 
 ## Dates
 
@@ -260,7 +288,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9c4f7e6182487017f8ff412e55547f5ff00d235aaf36c1a7aabb9ecea8f0cf6f` (3529491 bytes).
+- Corpus: sha256 `1c7afc2b43a2614d22f19f0556e21349544834190b8eac43c0f29fa096079c1f` (3902600 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

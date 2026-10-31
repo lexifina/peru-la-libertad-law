@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-217 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+245 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -231,6 +231,34 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-004-2019-gr-ll-cr/` | Ordenanza Regional N° 004-2019-GR-LL/CR: Instituyen el Festival Turístico Regional de la Puya Raimondi a realizarse cada año en el mes de junio | in force 23 June 2019 |
 | `ordenanza-regional-003-2019-grll-cr/` | Ordenanza Regional N° 003-2019-GRLL/CR: Crean el Registro Regional de Personas con Discapacidad del Gobierno Regional La Libertad | in force 23 June 2019 |
 | `ordenanza-regional-027-2018/` | Ordenanza Regional N° 027-2018: Declaran a Huaylillas y zonas aledañas como Sitio prioritario para la conservación de la diversidad biológica y patrimonio cultu… | in force 4 April 2019 |
+| `ordenanza-regional-014-2018-grll-cr/` | Ordenanza Regional N° 014-2018-GRLL/CR: Ordenanza Regional que aprueba la Convocatoria al Proceso de Formulación del Presupuesto Participativo Basado en Resulta… | in force 10 June 2018 |
+| `ordenanza-regional-005-2018-grll-cr/` | Ordenanza Regional N° 005-2018-GRLL/CR: Modifican el Reglamento de Organización y Funciones - ROF Institucional, aprobado mediante Ordenanza Regional N° 008-201… | in force 20 May 2018 |
+| `ordenanza-regional-012-2018-grll-cr/` | Ordenanza Regional N° 012-2018-GRLL/CR: Modificación del Reglamento de Organización y Funciones - ROF vigente del Gobierno Regional de La Libertad, con la inclu… | in force 20 May 2018 |
+| `ordenanza-regional-023-2017-grll-cr/` | Ordenanza Regional N° 023-2017-GRLL/CR.: Modifican la Ordenanza Regional N° 027-2007-GR-LL/CR | in force 9 February 2018 |
+| `ordenanza-regional-024-2017-grll-cr/` | Ordenanza Regional N° 024-2017-GRLL/CR: Modifican el Reglamento de Organización y Funciones (ROF) del Gobierno Regional de La Libertad y el Organigrama Estructu… | in force 9 February 2018 |
+| `ordenanza-regional-021-2017-grll-cr/` | Ordenanza Regional N° 021-2017-GRLL/CR: Modificación de los artículos 36°, 37° y 38° del Reglamento de Organización y Funciones (ROF) del Gobierno Regional de L… | in force 16 January 2018 |
+| `ordenanza-regional-004-2015-gr-ll-cr/` | Ordenanza Regional N° 004-2015-GR-LL/CR: Declaran de Interés Público Regional la Promoción de Derecho a la Salud y a la Vida, como Política del Estado en el Con… | in force 14 July 2015 |
+| `ordenanza-regional-008-2013-gr-ll-cr/` | Ordenanza Regional N° 008-2013-GR-LL/CR: Declaran el 13 de abril como Día de conmemoración a las víctimas de accidentes de tránsito en la región La Libertad | in force 29 December 2013 |
+| `ordenanza-regional-019-2013-gr-ll-cr/` | Ordenanza Regional N° 019-2013-GR-LL/CR: Crean el Sistema de Información Ambiental Regional - SIAR La Libertad | in force 2 December 2013 |
+| `ordenanza-regional-017-2013-gr-ll-cr/` | Ordenanza Regional N° 017-2013-GR-LL-CR: Crean el Consejo Regional de Productos Orgánicos de la Región La Libertad - COREPOLL | in force 25 October 2013 |
+| `ordenanza-regional-013-2013-gr-ll-cr/` | Ordenanza Regional N° 013-2013-GR-LL/CR: Declaran de Interés Público Regional la instalación e implementación de Viveros para la Producción de Plantas Ornamenta… | in force 25 October 2013 |
+| `ordenanza-regional-001-2012-gr-ll-cr/` | Ordenanza Regional N° 001-2012-GR-LL/CR: Institucionalizan el Encuentro Regional Anual de Líderes Escolares Liberteños | in force 24 October 2013 |
+| `ordenanza-regional-011-2013-gr-ll-cr/` | Ordenanza Regional N° 011-2013-GR-LL/CR: Declaran al Festival de La Lima como evento de interés Turístico Regional, que se desarrolla en el caserío El Olivo, di… | in force 24 October 2013 |
+| `ordenanza-regional-012-2013-gr-ll-cr/` | Ordenanza Regional N° 012-2013-GR-LL/CR: Crean el Proyecto Especial de Camélidos Sudamericanos La Libertad - PECASULL | in force 24 October 2013 |
+| `ordenanza-regional-015-2013-gr-ll-cr/` | Ordenanza Regional N° 015-2013-GR-LL/CR: Aprueban texto sustitutorio de la Ordenanza Regional N° 004-2010-GR-LL/CR "Normas Complementarias al Reglamento Naciona… | in force 30 September 2013 |
+| `ordenanza-regional-009-2013-gr-ll-cr/` | Ordenanza Regional N° 009-2013-GR-LL/CR: Reconocen al Producto Destilado de Uva con la denominación de "Puro de Uva" y declaran como Producto Bandera Regional d… | in force 29 September 2013 |
+| `ordenanza-regional-004-2013-gr-ll-cr/` | Ordenanza Regional N° 004-2013-GR-LL/CR: Declaran al Centro Poblado de Molino de Cajanlaque, distrito de Chocope, provincia de Ascope como Capital del Plátano e… | in force 6 September 2013 |
+| `ordenanza-regional-003-2013-gr-ll-cr/` | Ordenanza Regional N° 003-2013-GR-LL/CR: Aprueban la Estrategia Regional de Adaptación al Cambio Climático en la Región La Libertad | in force 6 September 2013 |
+| `ordenanza-regional-10-2013-gr-ll-cr/` | Ordenanza Regional N° 10-2013-GR-LL/CR: Convocan al Proceso de Formulación del Presupuesto Participativo Basado en Resultados del Gobierno Regional de La Libert… | in force 6 September 2013 |
+| `ordenanza-regional-007-2013-gr-ll-cr/` | Ordenanza Regional N° 007-2013-GR-LL/CR: Declaran al distrito de Agallpampa, en la provincia de Otuzco,  como Capital del Queso en la Región La Libertad | in force 6 September 2013 |
+| `ordenanza-regional-005-2013-gr-ll-cr/` | Ordenanza Regional N° 005-2013-GR-LL/CR: Aprueban Estrategia Regional para la Gestión de los Recursos Hídricos en la  Región La  Libertad | in force 12 July 2013 |
+| `ordenanza-regional-006-2013-gr-ll-cr/` | Ordenanza Regional N° 006-2013-GR-LL/CR: Derogan la Ordenanza Regional N° 008-2007-GR-LL/CR y su Reglamento; la Ordenanza Regional N° 010-2008-GR-LL/CR y su Reg… | in force 12 July 2013 |
+| `ordenanza-regional-002-2013-gr-ll-cr/` | Ordenanza Regional N° 002-2013-GR-LL/CR: Aprueban el "Plan Regional de Reforestación de La Libertad 2011 - 2021" | in force 25 April 2013 |
+| `ordenanza-regional-013-2012-gr-ll-cr/` | Ordenanza Regional N° 013-2012-GR-LL/CR: Disponen el uso de sombreros, gorros de ala ancha u otra prenda de cabeza en los estudiantes, directores, docentes y pe… | in force 24 February 2013 |
+| `ordenanza-regional-010-2012-gr-ll-cr/` | Ordenanza Regional N° 010-2012-GR-LL/CR: Crean el Consejo Regional por los Derechos de las Niñas, Niños y Adolescentes de la Región La Libertad | in force 18 January 2013 |
+| `ordenanza-regional-011-2012-gr-ll-cr/` | Ordenanza Regional N° 011-2012-GR-LL/CR: Disponen la celebración del Día de la Educación Técnica en la Región La Libertad | in force 18 January 2013 |
+| `ordenanza-regional-007-2012-gr-ll-cr/` | Ordenanza Regional N° 007-2012-GR-LL/CR: Aprueban el Estatuto de la Mancomunidad Regional Amazonas, San Martín, La Libertad, Cajamarca | in force 28 September 2012 |
+| `ordenanza-regional-009-2012-gr-ll-cr/` | Ordenanza Regional N° 009-2012-GR-LL/CR: Declaran al distrito de Huaranchal, provincia de Otuzco, como Capital del Café en la Región La Libertad | in force 28 September 2012 |
 
 ## Source
 
