@@ -1,0 +1,11 @@
+{
+  "path": "pe-lal",
+  "code": "PE-LAL",
+  "name": "La Libertad",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-la-libertad-law",
+  "build": "built: 196 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
