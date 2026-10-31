@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-245 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+311 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -259,6 +259,72 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-011-2012-gr-ll-cr/` | Ordenanza Regional N° 011-2012-GR-LL/CR: Disponen la celebración del Día de la Educación Técnica en la Región La Libertad | in force 18 January 2013 |
 | `ordenanza-regional-007-2012-gr-ll-cr/` | Ordenanza Regional N° 007-2012-GR-LL/CR: Aprueban el Estatuto de la Mancomunidad Regional Amazonas, San Martín, La Libertad, Cajamarca | in force 28 September 2012 |
 | `ordenanza-regional-009-2012-gr-ll-cr/` | Ordenanza Regional N° 009-2012-GR-LL/CR: Declaran al distrito de Huaranchal, provincia de Otuzco, como Capital del Café en la Región La Libertad | in force 28 September 2012 |
+| `ordenanza-regional-06-2012-gr-ll-cr/` | Ordenanza Regional N° 06-2012-GR-LL/CR: Aprueban Plan Estratégico Multisectorial para prevención y control de infecciones de traansmisión sexual y virus de VIH … | in force 14 July 2012 |
+| `ordenanza-regional-008-2012-gr-ll-cr/` | Ordenanza Regional N° 008-2012-GR-LL/CR: Aprueban la Estrategia Regional para la Reducción de la Pobreza y la Desnutrición Infantil en la Región La Libertad - C… | in force 14 July 2012 |
+| `ordenanza-regional-005-2012-gr-ll-cr/` | Ordenanza Regional N° 005-2012-GR-LL/CR: Designan integrantes de la Comisión Ordinaria de Defensa Nacional y Seguridad Ciudadana Regional del Consejo Regional L… | in force 24 June 2012 |
+| `ordenanza-regional-012-2011-gr-ll-cr/` | Ordenanza Regional N° 012-2011-GR-LL/CR: Aprueban Plan Regional para el desarrollo de Políticas de Formación Profesional de la Región La Libertad 2011 - 2016 | in force 1 April 2012 |
+| `ordenanza-regional-011-2011-gr-ll-cr/` | Ordenanza Regional N° 011-2011-GR-LL/CR: Declaran la voluntad del Gobierno Regional de La Libertad de constituir la "Mancomunidad Regional Amazonas, San Martín,… | in force 29 December 2011 |
+| `ordenanza-regional-037-2010-gr-ll-cr/` | Ordenanza Regional N° 037-2010-GR-LL/CR: Aprueban la creación del Consejo Regional de Competitividad La Libertad | in force 27 October 2011 |
+| `ordenanza-regional-050-2010-gr-ll-cr/` | Ordenanza Regional N° 050-2010-GR-LL/CR: Dispone realizar Sesión Solemne en memoria de héroe de la Batalla de Arica el 7 de junio de cada año | in force 27 October 2011 |
+| `ordenanza-regional-034-2010-gr-ll-cr/` | Ordenanza Regional N° 034-2010-GR-LL/CR: Aceptan la incorporación del Gobierno Regional de Cajamarca al Proceso Integrador de la Mancomunidad Regional Amazonas … | in force 27 October 2011 |
+| `ordenanza-regional-042-2010-gr-ll-cr/` | Ordenanza Regional N° 042-2010-GR-LL/CR: Crean el Comité Consultivo Regional de Turismo de La Libertad CCTR-LL | in force 27 October 2011 |
+| `ordenanza-regional-045-2010-gr-ll-cr/` | Ordenanza Regional N° 045-2010-GR-LL/CR: Disponen establecer a la ciudad de Trujillo como sede para solución de controversias derivadas de las contrataciones de… | in force 27 October 2011 |
+| `ordenanza-regional-048-2010-gr-ll-cr/` | Ordenanza Regional N° 048-2010-GR-LL/CR: Aprueban directiva para el servicio y control de maquinaria pesada, agrícola y 2KR, establecimiento de costos horario y… | in force 27 October 2011 |
+| `ordenanza-regional-044-2010-gr-ll-cr/` | Ordenanza Regional N° 044-2010-GR-LL/CR: Incorporan al Consejo Regional de Concertación Agraria de la Región las funciones de promover el desarrollo sostenido y… | in force 27 October 2011 |
+| `ordenanza-regional-038-2010-gr-ll-cr/` | Ordenanza Regional N° 038-2010-GR-LL/CR: Modifican el artículo tercero de la Ordenanza Regional N° 003-2008-GR-LL/CR | in force 27 October 2011 |
+| `ordenanza-regional-041-2010-gr-ll-cr/` | Ordenanza Regional N° 041-2010-GR-LL/CR: Crean y declaran zona de desarrollo turístico prioritario regional el Corredor Ecoturístico Ascope-Chan Chan-Virú-Chaví… | in force 27 October 2011 |
+| `ordenanza-regional-036-2010-gr-ll-cr/` | Ordenanza Regional N° 036-2010-GR-LL/CR: Disponen la vigilia y guardia de honor de la copia de la primera Bandera Nacional el 28 de diciembre de cada año | in force 27 October 2011 |
+| `ordenanza-regional-039-2010-gr-ll-cr/` | Ordenanza Regional N° 039-2010-GR-LL/CR: Crean el Consejo Consultivo de Sanidad Agraria y Salud Pública | in force 27 October 2011 |
+| `ordenanza-regional-033-2010-gr-ll-cr/` | Ordenanza Regional N° 033-2010-GR-LL/CR: Aprueban la modificación de la Estructura Orgánica y del Reglamento de Organización y Funciones (ROF) Año 2010 de la Ge… | in force 27 October 2011 |
+| `ordenanza-regional-046-2010-gr-ll-cr/` | Ordenanza Regional N° 046-2010-GR-LL/CR: Disponen la creación de la Unidad de Relaciones Interregionales - URI adscrita a la Presidencia Regional | in force 27 October 2011 |
+| `ordenanza-regional-035-2010-gr-ll-cr/` | Ordenanza Regional N° 035-2010-GR-LL/CR: Disponen la realización de una Sesión Solemne en memoria ex oficial FAP | in force 27 October 2011 |
+| `ordenanza-regional-043-2010-gr-ll-cr/` | Ordenanza Regional N° 043-2010-GR-LL/CR: Crean el Consejo Regional de Fomento Artesanal La Libertad | in force 27 October 2011 |
+| `ordenanza-regional-005-2011-gr-ll-cr/` | Ordenanza Regional N° 005-2011-GR-LL/CR: Aprueban modificación del Cuadro para Asignación de Personal (CAP) año 2011 de la Gerencia Regional de Salud del Gobier… | in force 6 October 2011 |
+| `ordenanza-regional-006-2011-gr-ll-cr/` | Ordenanza Regional N° 006-2011-GR-LL/CR: Crean la Comisión Ordinaria de Defensa Nacional y Seguridad Ciudadana Regional | in force 6 October 2011 |
+| `ordenanza-regional-004-2011-gr-ll-cr/` | Ordenanza Regional N° 004-2011-GR-LL/CR: Aprueban modificación del Organigrama Estructural y del Reglamento de Organización y Funciones (ROF) Año 2011 de la  Ge… | in force 6 October 2011 |
+| `ordenanza-regional-003-2011-gr-ll-cr/` | Ordenanza Regional N° 003-2011-GR-LL/CR: Aprueban modificación del Cuadro para Asignación de Personal (CAP) año 2011 de la Gerencia Regional de Trabajo y Promoc… | in force 6 October 2011 |
+| `ordenanza-regional-008-2011-gr-ll-cr/` | Ordenanza Regional N° 008-2011-GR-LL/CR: Modifican Organigrama Estructural y Reglamento de Organización y Funciones (ROF) del Gobierno Regional de La Libertad | in force 17 September 2011 |
+| `ordenanza-regional-049-2010-gr-ll-cr/` | Ordenanza Regional N° 049-2010-GR-LL/CR: Disponen que las instituciones educativas públicas y privadas de ámbito regional adopten como denominación propia la co… | in force 19 March 2011 |
+| `ordenanza-regional-047-2010-gr-ll-cr/` | Ordenanza Regional N° 047-2010-GR-LL/CR: Disponen la implementación obligatoria de un Sistema Operativo de Seguridad Basada en el Comportamiento (SBC) por parte… | in force 19 March 2011 |
+| `ordenanza-regional-032-2010-gr-ll-cr/` | Ordenanza Regional N° 032-2010-GR-LL/CR: Oficializan la entonación del Coro y la Sexta Estrofa de la versión original del Himno Nacional del Perú, en todos los … | in force 19 March 2011 |
+| `ordenanza-regional-021-2010-gr-ll-cr/` | Ordenanza Regional N° 021-2010-GR-LL/CR: Declaran prioritario y de interés regional la adopción de medidas de prevención para la mitigación y adaptación al camb… | in force 28 January 2011 |
+| `ordenanza-regional-024-2010-gr-ll-cr/` | Ordenanza Regional N° 024-2010-GR-LL/CR: Aprueban Reglamento de Organización y Funciones (ROF) de la Gerencia Regional de Producción y de la Gerencia Regional d… | in force 28 January 2011 |
+| `ordenanza-regional-020-2010-gr-ll-cr/` | Ordenanza Regional N° 020-2010-GR-LL/CR: Aprueban modificación de la Estructura Orgánica Vigente del Gobierno Regional La Libertad | in force 28 January 2011 |
+| `ordenanza-regional-026-2010-gr-ll-cr/` | Ordenanza Regional N° 026-2010-GR-LL/CR: Disponen que la Escuela Superior de Bellas Artes Pública "Macedonio de La Torre" se denomine Escuela Superior de Formac… | in force 28 January 2011 |
+| `ordenanza-regional-025-2010-gr-ll-cr/` | Ordenanza Regional N° 025-2010-GR-LL/CR: Declaran como Política Pública Regional de Vivienda el Programa "Lotes Dignos para el Pueblo" | in force 28 January 2011 |
+| `ordenanza-regional-019-2010-gr-ll-cr/` | Ordenanza Regional N° 019-2010-GR-LL/CR: Aprueban Lineamientos de la Política Regional de Formación Profesional de la Región La Libertad | in force 25 November 2010 |
+| `ordenanza-regional-018-2010-gr-ll-cr/` | Ordenanza Regional N° 018-2010-GR-LL/CR: Modifican Ordenanza N° 002-2008-GR-LL/CR referente al ejercicio profesional en la Administración Pública de la Región L… | in force 25 November 2010 |
+| `ordenanza-regional-017-2010-gr-ll-cr/` | Ordenanza Regional N° 017-2010-GR-LL/CR: Aprueban el Texto Único de Procedimientos Administrativos (TUPA) de la Gerencia Regional de Transportes y Comunicacione… | in force 26 September 2010 |
+| `ordenanza-regional-015-2010-gr-ll-cr/` | Ordenanza Regional N° 015-2010-GR-LL/CR: Aprueban el Texto Único de Procedimientos Administrativos (TUPA)  - Año 2010 de la Gerencia Regional de Comercio Exteri… | in force 26 September 2010 |
+| `ordenanza-regional-009-2010-gr-ll-cr/` | Ordenanza Regional N° 009-2010-GR-LL/CR: Aprueban Texto Único de Procedimientos Administrativos (TUPA) - Año 2010 de la Gerencia Regional de Salud | in force 15 August 2010 |
+| `ordenanza-regional-011-2010-gr-ll-cr/` | Ordenanza Regional N° 011-2010-GR-LL/CR: Disponen que la Procuraduría Pública Regional se allane a la demanda y se desista del recurso de apelación en los proce… | in force 15 August 2010 |
+| `ordenanza-regional-012-2010-gr-ll-cr/` | Ordenanza Regional N° 012-2010-GR-LL/CR: Declaran en situación de emergencia a la Región La Libertad para enfrentar los casos de peste bubónica y/o neumónica | in force 15 August 2010 |
+| `ordenanza-regional-008-2010-gr-ll-cr/` | Ordenanza Regional N° 008-2010-GR-LL/CR: Aprueban modificación de la Estructura Orgánica y del Reglamento de Organización y Funciones (ROF) de la Gerencia Regio… | in force 15 August 2010 |
+| `ordenanza-regional-010-2010-gr-ll-cr/` | Ordenanza Regional N° 010-2010-GR-LL/CR: Aprueban la adecuación administrativa regional en el marco de la Ley N° 29271, mediante la asignación a la Gerencia Reg… | in force 15 August 2010 |
+| `ordenanza-regional-007-2010-gr-ll-cr/` | Ordenanza Regional N° 007-2010-GR-LL/CR: Aprueban modificación de la Estructura Orgánica y del Reglamento de Organización y Funciones (ROF) de la Gerencia Regio… | in force 15 August 2010 |
+| `ordenanza-regional-032-2009-gr-ll-cr/` | Ordenanza Regional N° 032-2009-GR-LL/CR: Aprueban el Plan de Desarrollo Regional Concertado de la Libertad: 2010-2021 | in force 25 March 2010 |
+| `ordenanza-regional-030-2009-gr-ll-cr/` | Ordenanza Regional N° 030-2009-GR-LL/CR: Declaran al Guanaco (Lama Guanicoe) como patrimonio de la Región La Libertad y de necesidad pública e interés regional … | in force 25 March 2010 |
+| `ordenanza-regional-029-2009-gr-ll-cr/` | Ordenanza Regional N° 029-2009-GR-LL/CR: Aprueban la modificación del Cuadro para Asignación de Personal (CAP), año 2009 de la sede del Gobierno Regional de la … | in force 25 March 2010 |
+| `ordenanza-regional-027-2009-gr-ll-cr/` | Ordenanza Regional N° 027-2009-GR-LL/CR: Crean el Consejo Regional de Empleo Juvenil | in force 25 March 2010 |
+| `ordenanza-regional-031-2009-gr-ll-cr/` | Ordenanza Regional N° 031-2009-GR-LL/CR: Constituyen el Comité Regional de Movilización | in force 25 March 2010 |
+| `ordenanza-regional-028-2009-gr-ll-cr/` | Ordenanza Regional N° 028-2009-GR-LL/CR: Modifican la Ordenanza Regional  N° 021-2005-CR/RLL respecto al Consejo Regional dese4guridad Vial en la Región La Libe… | in force 25 March 2010 |
+| `ordenanza-regional-024-2009-gr-ll-cr/` | Ordenanza Regional N° 024-2009-GR-LL/CR: Amplían la vigencia de las autorizaciones de permisos excepcionales otorgadas a empresas de transportes al amparo del D… | in force 26 December 2009 |
+| `ordenanza-regional-026-2009-gr-ll-cr/` | Ordenanza Regional N° 026-2009-GR-LL/CR: Aprueban Proyecto Piloto de Descentralización en Salud en la Red de Salud Sánchez Carrión | in force 26 December 2009 |
+| `ordenanza-regional-025-2009-gr-ll-cr/` | Ordenanza Regional N° 025-2009-GR-LL/CR: Declaran de interés público regional y de prioridad el uso alternativo de módulos prefabricados en la construcción de i… | in force 26 December 2009 |
+| `ordenanza-regional-020-2009-gr-ll-cr/` | Ordenanza Regional N° 020-2009-GR-LL/CR: Aprueban Política Regional de Salud de La Libertad 2007 - 2012 | in force 26 December 2009 |
+| `ordenanza-regional-012-2009-gr-ll-cr/` | Ordenanza Regional N° 012-2009-GR-LL/CR: Establecen ordenamiento de fiscalización de las actividades mineras para la Pequeña Minería y Minería Artesanal | in force 16 November 2009 |
+| `ordenanza-regional-023-2009-gr-ll-cr/` | Ordenanza Regional N° 023-2009-GR-LL/CR: Declaran a la provincia de Santiago de Chuco como "Capital Regional de la Poesía" por ser cuna y heredera del gran poet… | in force 16 November 2009 |
+| `ordenanza-regional-022-2009-gr-ll-cr/` | Ordenanza Regional N° 022-2009-GR-LL/CR: Declaran de prioridad e interés regional el Fomento del Desarrollo de la Ganadería Alpacuna y la Promoción del Consumo … | in force 16 November 2009 |
+| `ordenanza-regional-029-2008-gr-ll-cr/` | Ordenanza Regional N° 029-2008-GR-LL/CR: Disponen que la Procuraduría Pública Regional se allane y desista en los procesos judiciales sobre subsidio y gratifica… | in force 4 September 2009 |
+| `ordenanza-regional-017-2009-gr-ll-cr/` | Ordenanza Regional N° 017-2009-GR-LL/CR: Aprueban creación de correo electrónico institucional para la divulgación de los Acuerdos y Ordenanzas Regionales | in force 24 August 2009 |
+| `ordenanza-regional-014-2009-gr-ll-cr/` | Ordenanza Regional N° 014-2009-GR-LL/CR: Establecen disposiciones para la presentación de informes de supervisión por parte de la Gerencia Regional de Educación… | in force 24 August 2009 |
+| `ordenanza-regional-018-2009-gr-ll-cr/` | Ordenanza Regional N° 018-2009-GR-LL/CR: Constituyen la Comisión Regional de Promoción de la Inversión en la Actividad Acuícola Continental en la Sierra de La L… | in force 24 August 2009 |
+| `ordenanza-regional-008-2009-gr-ll-cr/` | Ordenanza Regional N° 008-2009-GR-LL/CR: Constituyen la Comisión Ambiental Regional La Libertad - CAR-LL | in force 29 June 2009 |
+| `ordenanza-regional-002-2009-gr-ll-cr/` | Ordenanza Regional N° 002-2009-GR-LL/CR: Declaran de interés público regional la promoción y utilización de riego tecnificado en el ámbito de la Región La Liber… | in force 29 June 2009 |
+| `ordenanza-regional-010-2009-gr-ll-cr/` | Ordenanza Regional N° 010-2009-GR-LL/CR: Modifican el Artículo 5° de la Ordenanza Regional N° 012-2008-GR-LL/CR | in force 29 June 2009 |
+| `ordenanza-regional-007-2009-gr-ll-cr/` | Ordenanza Regional N° 007-2009-GR-LL/CR: Declaran de interés regional la promoción del consumo de carne de conejo y fomentar el desarrollo sostenible de la cuni… | in force 29 June 2009 |
+| `ordenanza-regional-009-2009-gr-ll-cr/` | Ordenanza Regional N° 009-2009-GR-LL/CR: Constituyen la Comisión Regional Permanente de Inocuidad Alimentaria de La Libertad | in force 29 June 2009 |
+| `ordenanza-regional-003-2009-gr-ll-cr/` | Ordenanza Regional N° 003-2009-GR-LL/CR: Constituyen la "Mesa Regional de Diálogo y Concertación para Prevenir y Desactivar Conflictos Sociales en la Región La … | in force 29 June 2009 |
 
 ## Source
 
