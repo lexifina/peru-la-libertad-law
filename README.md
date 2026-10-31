@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-196 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+217 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -210,6 +210,27 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-016-2013-gr-ll-cr/` | Ordenanza Regional N° 016-2013-GR-LL/CR: Institucionalizan el "Día de la Mujer Rural en la Región La Libertad", el día 15 de octubre de cada año | in force 25 October 2013 |
 | `ordenanza-regional-014-2013-gr-ll-cr/` | Ordenanza Regional N° 014-2013-GR-LL/CR: Aprueban el Reglamento de Organización y Funciones - ROF de la Autoridad Portuaria Regional de La Libertad | in force 30 September 2013 |
 | `ordenanza-regional-001-2013-gr-ll-cr/` | Ordenanza Regional N° 001-2013-GR-LL/CR: Modifican el nombre Mancomunidad Regional de Amazonas, San Martín, La Libertad, Cajamarca por "Mancomunidad Regional De… | in force 3 June 2013 |
+| `ordenanza-regional-000009-2021-gr-ll-cr/` | Ordenanza Regional N° 000009-2021-GR-LL-CR: Aprueban el Reglamento de Organización y Funciones - ROF y el Organigrama Estructural Básico del Gobierno Regional L… | in force 1 November 2021 |
+| `ordenanza-regional-011-2021-gr-ll-cr/` | Ordenanza Regional N° 011-2021-GR-LL-CR: Ordenanza Regional que aprueba el Plan de Acción Regional de Seguridad Ciudadana La Libertad 2021 | in force 1 November 2021 |
+| `ordenanza-regional-005-2021-grll-cr/` | Ordenanza Regional N° 005-2021-GRLL/CR: Aprueban la creación de la Instancia Regional para el Desarrollo e Inclusión Social Territorial (IARDIST) de La Libertad | in force 23 June 2021 |
+| `ordenanza-regional-017-2020-grll-cr/` | Ordenanza Regional N° 017-2020-GRLL/CR: Ordenanza Regional que aprueba el Código de Ética del Consejo Regional del Gobierno Regional de La Libertad | in force 13 January 2021 |
+| `ordenanza-regional-008-2020-gr-ll-cr/` | Ordenanza Regional N° 008-2020-GR-LL/CR: Declaran de necesidad pública la elaboración de un Padrón Piloto de Personas (PPP) que necesitan apoyo social solidario… | in force 1 August 2020 |
+| `ordenanza-regional-005-2020-grll-cr/` | Ordenanza Regional N° 005-2020-GRLL/CR: Ordenanza que incorpora el artículo 32-A y una disposición complementaria transitoria al Reglamento Interno del Consejo … | in force 19 June 2020 |
+| `ordenanza-regional-001-2020-grll-cr/` | Ordenanza Regional N° 001-2020-GRLL/CR: Aprueban el “Programa Regional Siembra y Cosecha de agua en el Ámbito del Departamento de la Libertad" | in force 22 February 2020 |
+| `ordenanza-regional-018-2019-grll-cr/` | Ordenanza Regional N° 018-2019-GRLL/CR: Declaran de Interés Regional el Plato Típico la “Papa con Miga”, de la Provincia de Ascope, Región La Libertad | in force 30 November 2019 |
+| `ordenanza-regional-021-2019-grll-cr/` | Ordenanza Regional N° 021-2019-GRLL/CR: Aprueban la “Agenda Ambiental Regional La Libertad 2017-2019” | in force 30 November 2019 |
+| `ordenanza-regional-016-2019-gr-ll-cr/` | Ordenanza Regional N° 016-2019-GR-LL/CR: Ordenanza Regional que aprueba implementar medidas de prevención, prohibición y sanción del acoso sexual en espacios pú… | in force 24 October 2019 |
+| `ordenanza-regional-029-2016-gr-ll-cr/` | Ordenanza Regional N° 029-2016-GR-LL/CR: Ordenanza Regional que aprueba la conformación de los Centros de Atención Integral a Adolescentes para la Prevención y … | in force 5 October 2019 |
+| `ordenanza-regional-013-2019-gr-ll-cr/` | Ordenanza Regional N° 013-2019-GR-LL/CR: Declaran de interés público regional el Peregrinaje de la Festividad de las Cruces del Cerro Orga del distrito de Sinsi… | in force 13 September 2019 |
+| `ordenanza-regional-003-2018-grll-cr/` | Ordenanza Regional N° 003-2018-GRLL/CR: Ordenanza Regional que aprueba la creación e implementación del Registro de Cáncer de Base Poblacional del departamento … | in force 20 July 2019 |
+| `ordenanza-regional-006-2018-grll-cr/` | Ordenanza Regional N° 006-2018-GRLL/CR: Declaran de preferente interés regional la digitalización y difusión de documentos históricos del Archivo Regional de La… | in force 20 July 2019 |
+| `ordenanza-regional-010-2018-grll-cr/` | Ordenanza Regional N° 010-2018-GRLL/CR: Aprueban Ordenanza que promueve el aprovechamiento sostenible de las plantas medicinales en el ámbito de la Región La Li… | in force 20 July 2019 |
+| `ordenanza-regional-015-2018-grll-cr/` | Ordenanza Regional N° 015-2018-GRLL/CR: Constituyen el Consejo Regional de Gobierno Abierto de La Libertad | in force 20 July 2019 |
+| `ordenanza-regional-013-2018-grll-cr/` | Ordenanza Regional N° 013-2018-GRLL/CR: Ratifican el Plan Regional de Seguridad Ciudadana 2018 La Libertad | in force 20 July 2019 |
+| `ordenanza-regional-005-2019-gr-ll-cr/` | Ordenanza Regional N° 005-2019-GR-LL/CR: Aprueban declarar de interés regional el desarrollo turístico de las Islas Guañape y Puerto Morín, ámbito del Centro Po… | in force 23 June 2019 |
+| `ordenanza-regional-004-2019-gr-ll-cr/` | Ordenanza Regional N° 004-2019-GR-LL/CR: Instituyen el Festival Turístico Regional de la Puya Raimondi a realizarse cada año en el mes de junio | in force 23 June 2019 |
+| `ordenanza-regional-003-2019-grll-cr/` | Ordenanza Regional N° 003-2019-GRLL/CR: Crean el Registro Regional de Personas con Discapacidad del Gobierno Regional La Libertad | in force 23 June 2019 |
+| `ordenanza-regional-027-2018/` | Ordenanza Regional N° 027-2018: Declaran a Huaylillas y zonas aledañas como Sitio prioritario para la conservación de la diversidad biológica y patrimonio cultu… | in force 4 April 2019 |
 
 ## Source
 

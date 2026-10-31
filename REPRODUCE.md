@@ -214,20 +214,41 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-016-2013-gr-ll-cr` | Ordenanza Regional N° 016-2013-GR-LL/CR: Institucionalizan el "Día de la Mujer Rural en la Región La Libertad", el día 15 de octubre de cada año | 1 | 2013-10-25 to 2013-10-25 |
 | `ordenanza-regional-014-2013-gr-ll-cr` | Ordenanza Regional N° 014-2013-GR-LL/CR: Aprueban el Reglamento de Organización y Funciones - ROF de la Autoridad Portuaria Regional de La Libertad | 1 | 2013-09-30 to 2013-09-30 |
 | `ordenanza-regional-001-2013-gr-ll-cr` | Ordenanza Regional N° 001-2013-GR-LL/CR: Modifican el nombre Mancomunidad Regional de Amazonas, San Martín, La Libertad, Cajamarca por "Mancomunidad Regional Del Qhapaq Ñan Nor Amazónico" | 1 | 2013-06-03 to 2013-06-03 |
+| `ordenanza-regional-000009-2021-gr-ll-cr` | Ordenanza Regional N° 000009-2021-GR-LL-CR: Aprueban el Reglamento de Organización y Funciones - ROF y el Organigrama Estructural Básico del Gobierno Regional La Libertad | 1 | 2021-11-01 to 2021-11-01 |
+| `ordenanza-regional-011-2021-gr-ll-cr` | Ordenanza Regional N° 011-2021-GR-LL-CR: Ordenanza Regional que aprueba el Plan de Acción Regional de Seguridad Ciudadana La Libertad 2021 | 1 | 2021-11-01 to 2021-11-01 |
+| `ordenanza-regional-005-2021-grll-cr` | Ordenanza Regional N° 005-2021-GRLL/CR: Aprueban la creación de la Instancia Regional para el Desarrollo e Inclusión Social Territorial (IARDIST) de La Libertad | 1 | 2021-06-23 to 2021-06-23 |
+| `ordenanza-regional-017-2020-grll-cr` | Ordenanza Regional N° 017-2020-GRLL/CR: Ordenanza Regional que aprueba el Código de Ética del Consejo Regional del Gobierno Regional de La Libertad | 1 | 2021-01-13 to 2021-01-13 |
+| `ordenanza-regional-008-2020-gr-ll-cr` | Ordenanza Regional N° 008-2020-GR-LL/CR: Declaran de necesidad pública la elaboración de un Padrón Piloto de Personas (PPP) que necesitan apoyo social solidario, en zonas más vulnerables de la Región que no cuentan con servicios de agua potable y alcantarillado, en el marco de la pandemia del COVID- | 1 | 2020-08-01 to 2020-08-01 |
+| `ordenanza-regional-005-2020-grll-cr` | Ordenanza Regional N° 005-2020-GRLL/CR: Ordenanza que incorpora el artículo 32-A y una disposición complementaria transitoria al Reglamento Interno del Consejo Regional de La Libertad | 1 | 2020-06-19 to 2020-06-19 |
+| `ordenanza-regional-001-2020-grll-cr` | Ordenanza Regional N° 001-2020-GRLL/CR: Aprueban el “Programa Regional Siembra y Cosecha de agua en el Ámbito del Departamento de la Libertad" | 1 | 2020-02-22 to 2020-02-22 |
+| `ordenanza-regional-018-2019-grll-cr` | Ordenanza Regional N° 018-2019-GRLL/CR: Declaran de Interés Regional el Plato Típico la “Papa con Miga”, de la Provincia de Ascope, Región La Libertad | 1 | 2019-11-30 to 2019-11-30 |
+| `ordenanza-regional-021-2019-grll-cr` | Ordenanza Regional N° 021-2019-GRLL/CR: Aprueban la “Agenda Ambiental Regional La Libertad 2017-2019” | 1 | 2019-11-30 to 2019-11-30 |
+| `ordenanza-regional-016-2019-gr-ll-cr` | Ordenanza Regional N° 016-2019-GR-LL/CR: Ordenanza Regional que aprueba implementar medidas de prevención, prohibición y sanción del acoso sexual en espacios públicos en la Región La Libertad | 1 | 2019-10-24 to 2019-10-24 |
+| `ordenanza-regional-029-2016-gr-ll-cr` | Ordenanza Regional N° 029-2016-GR-LL/CR: Ordenanza Regional que aprueba la conformación de los Centros de Atención Integral a Adolescentes para la Prevención y Reducción de la Violencia y Otros Riesgos Sociales | 1 | 2019-10-05 to 2019-10-05 |
+| `ordenanza-regional-013-2019-gr-ll-cr` | Ordenanza Regional N° 013-2019-GR-LL/CR: Declaran de interés público regional el Peregrinaje de la Festividad de las Cruces del Cerro Orga del distrito de Sinsicap, provincia de Otuzco; y la permanencia en el tiempo de dicha expresión del Patrimonio Cultural Inmaterial en la Región | 1 | 2019-09-13 to 2019-09-13 |
+| `ordenanza-regional-003-2018-grll-cr` | Ordenanza Regional N° 003-2018-GRLL/CR: Ordenanza Regional que aprueba la creación e implementación del Registro de Cáncer de Base Poblacional del departamento de La Libertad | 1 | 2019-07-20 to 2019-07-20 |
+| `ordenanza-regional-006-2018-grll-cr` | Ordenanza Regional N° 006-2018-GRLL/CR: Declaran de preferente interés regional la digitalización y difusión de documentos históricos del Archivo Regional de La Libertad | 1 | 2019-07-20 to 2019-07-20 |
+| `ordenanza-regional-010-2018-grll-cr` | Ordenanza Regional N° 010-2018-GRLL/CR: Aprueban Ordenanza que promueve el aprovechamiento sostenible de las plantas medicinales en el ámbito de la Región La Libertad, en armonía con el interés ambiental, social, sanitario y económico de la Región La Libertad | 1 | 2019-07-20 to 2019-07-20 |
+| `ordenanza-regional-015-2018-grll-cr` | Ordenanza Regional N° 015-2018-GRLL/CR: Constituyen el Consejo Regional de Gobierno Abierto de La Libertad | 1 | 2019-07-20 to 2019-07-20 |
+| `ordenanza-regional-013-2018-grll-cr` | Ordenanza Regional N° 013-2018-GRLL/CR: Ratifican el Plan Regional de Seguridad Ciudadana 2018 La Libertad | 1 | 2019-07-20 to 2019-07-20 |
+| `ordenanza-regional-005-2019-gr-ll-cr` | Ordenanza Regional N° 005-2019-GR-LL/CR: Aprueban declarar de interés regional el desarrollo turístico de las Islas Guañape y Puerto Morín, ámbito del Centro Poblado de Santa Elena, distrito y provincia de Virú, región La Libertad | 1 | 2019-06-23 to 2019-06-23 |
+| `ordenanza-regional-004-2019-gr-ll-cr` | Ordenanza Regional N° 004-2019-GR-LL/CR: Instituyen el Festival Turístico Regional de la Puya Raimondi a realizarse cada año en el mes de junio | 1 | 2019-06-23 to 2019-06-23 |
+| `ordenanza-regional-003-2019-grll-cr` | Ordenanza Regional N° 003-2019-GRLL/CR: Crean el Registro Regional de Personas con Discapacidad del Gobierno Regional La Libertad | 1 | 2019-06-23 to 2019-06-23 |
+| `ordenanza-regional-027-2018` | Ordenanza Regional N° 027-2018: Declaran a Huaylillas y zonas aledañas como Sitio prioritario para la conservación de la diversidad biológica y patrimonio cultural y establecen medidas complementarias para la conservación en el ámbito regional | 1 | 2019-04-04 to 2019-04-04 |
 
-The build made 196 commits:
+The build made 217 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 196 | first version of an act |
+| 217 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 196 laws in the record.
-- 392 tags.
+- 217 laws in the record.
+- 434 tags.
 
 ## Dates
 
@@ -239,13 +260,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2b34766c3a41b3a043ff7b4a3056aaeb97670cdbc873005a81608f31719008f6` (3149335 bytes).
+- Corpus: sha256 `9c4f7e6182487017f8ff412e55547f5ff00d235aaf36c1a7aabb9ecea8f0cf6f` (3529491 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-196 versions of 196 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

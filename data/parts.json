@@ -240,6 +240,32 @@
     "ordenanza-regional-028-2010-gr-ll-cr"
    ],
    "sha256": "895a3e0d49893c3f7760ab5881487fae351feaf44d668a64f56248df4b80d76a"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-000009-2021-gr-ll-cr",
+    "ordenanza-regional-001-2020-grll-cr",
+    "ordenanza-regional-003-2018-grll-cr",
+    "ordenanza-regional-003-2019-grll-cr",
+    "ordenanza-regional-004-2019-gr-ll-cr",
+    "ordenanza-regional-005-2019-gr-ll-cr",
+    "ordenanza-regional-005-2020-grll-cr",
+    "ordenanza-regional-005-2021-grll-cr",
+    "ordenanza-regional-006-2018-grll-cr",
+    "ordenanza-regional-008-2020-gr-ll-cr",
+    "ordenanza-regional-010-2018-grll-cr",
+    "ordenanza-regional-011-2021-gr-ll-cr",
+    "ordenanza-regional-013-2018-grll-cr",
+    "ordenanza-regional-013-2019-gr-ll-cr",
+    "ordenanza-regional-015-2018-grll-cr",
+    "ordenanza-regional-016-2019-gr-ll-cr",
+    "ordenanza-regional-017-2020-grll-cr",
+    "ordenanza-regional-018-2019-grll-cr",
+    "ordenanza-regional-021-2019-grll-cr",
+    "ordenanza-regional-027-2018",
+    "ordenanza-regional-029-2016-gr-ll-cr"
+   ],
+   "sha256": "e1ad52b19fa899145eb5b3fed3cf81976b35c4312904e4f3eefc26c4e729c64d"
   }
  },
  "schema": 1
